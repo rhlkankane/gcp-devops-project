@@ -16,4 +16,4 @@ steps:
   - --namespace=gcp-devops-dev
 options:
   logging: GCS_ONLY
-logsBucket: gs://gcp-devops-project-dev  
+logsBucket: gs://gcp-devops-project-dev   
